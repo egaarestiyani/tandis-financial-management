@@ -31,7 +31,7 @@ Project Manager dan System Analyst
 ![Dashboard](screenshots/dashboard-tandis.png)
 
 ### Stok Bahan Baku
-![Data Warga](screenshots/bahan-baku.png)
+![Stok_Bahan](screenshots/bahan-baku.png)
 
 ### Laporan Penjualan
-![Data Warga](screenshots/laporan-penjualan.png)
+![Laporan_Penjualan](screenshots/laporan-penjualan.png)

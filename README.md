@@ -24,7 +24,14 @@ Sistem Manajemen Keuangan Tandi's Bakery Homemade merupakan aplikasi berbasis we
 Project Manager dan System Analyst
 
 ## Tampilan Aplikasi
+### Login
+![Login](screenshots/login-tandis.png)
 
-## 📌 Catatan
+### Dashboard
+![Dashboard](screenshots/dashboard-tandis.png)
 
-Project ini dikembangkan sebagai bagian dari proyek akademik dan ditampilkan sebagai portofolio pengembangan perangkat lunak.
+### Stok Bahan Baku
+![Data Warga](screenshots/bahan-baku.png)
+
+### Laporan Penjualan
+![Data Warga](screenshots/laporan-penjualan.png)
